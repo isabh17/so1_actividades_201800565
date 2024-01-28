@@ -2,10 +2,13 @@
 # Sistemas Operativos 1
 # Actividad 1
 
+INTEGRANTE 💁
+
+-------------------------------------------
 | Nombre:                     | Carné     |
 | --------------------------- | --------- |
 | María Isabel Masaya Córdova | 201800565 |
-
+-------------------------------------------
 
 ## Investigar sobre los siguientes conceptos de Sistemas Operativos:
 ## Tipos de Kernel y sus diferencias:
