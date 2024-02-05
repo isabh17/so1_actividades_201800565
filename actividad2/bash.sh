@@ -29,4 +29,6 @@ SCRIPT_PATH="$(realpath $0)"
 CRON_CMD="*/5 * * * * $SCRIPT_PATH"
 (crontab -l 2>/dev/null; echo "$CRON_CMD") | crontab -
 
+echo "Respuesta completa de la API: $RESPONSE"
+
 
