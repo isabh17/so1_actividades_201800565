@@ -1,0 +1,10 @@
+[Unit]
+Description=Saludo y fecha actual infinitos
+
+[Service]
+Type=simple
+ExecStart=
+Restart=always
+
+[Install]
+WantedBy=default.target
